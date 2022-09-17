@@ -1,4 +1,4 @@
-  # [SyncUp]https://syncupp.netlify.app) - Task Management site  <img src="./SyncUp.svg" alt="SyncUp logo">
+  # [SyncUp](https://syncupp.netlify.app) - Task Management site  <img src="./SyncUp.svg" alt="SyncUp logo">
   *Hosted on Firebase*
   
   ### Looking for an easy way to allocate and manage tasks on a team project? Sync with all members effortlessly, with **SyncUp**!
